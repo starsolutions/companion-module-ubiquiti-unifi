@@ -9,8 +9,8 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@companion-module/base": "~1.4.1",
-		"node-unifi": "github:julusian/node-unifi#04c6a75e7adaa5a38a9eff4e7bb4a1a5dac2fdea",
+		"@companion-module/base": "~1.4.3",
+		"node-unifi": "^2.5.3",
 		"p-queue": "^7.3.4"
 	},
 	"repository": {
